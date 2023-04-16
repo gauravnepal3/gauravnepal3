@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me: gauravnepal3@gmail.com
 
-### Languages & Tools
+### Skills 
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 <p>
      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>
