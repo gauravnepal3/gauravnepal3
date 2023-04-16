@@ -11,7 +11,7 @@
 - 📫 How to reach me: gauravnepal3@gmail.com
 
 ### Skills 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+![Theoretically Productive](https://img.shields.io/badge/Javascript-blueviolet?style=for-the-badge&logo=appveyor)
 <p>
      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/>
