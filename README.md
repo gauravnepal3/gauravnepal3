@@ -1,6 +1,5 @@
-<div align="center">
-## Wabaladubdub (https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</div>
+
+## Wabaladubdub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Hi, welcome to my profile. Unleashing Gaurav's Code Chronicles: A Journey Through Ingenious Problem-Solving and Innovation!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravnepal3" alt="MarikIshtar007" /> </p>
