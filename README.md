@@ -12,7 +12,7 @@
 
 ### Languages & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="Javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" color="#06B6D4" alt="Javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" width="40" height="40"/>
