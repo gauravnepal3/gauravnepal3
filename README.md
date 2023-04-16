@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=gauravnepal3&style=flat-square&color=blueviolet)
+
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravnepal3&show_icons=true)
 <!--
 **gauravnepal3/gauravnepal3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
