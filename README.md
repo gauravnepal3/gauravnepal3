@@ -18,4 +18,6 @@
 ![Theoretically Productive](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Theoretically Productive](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black)
 ![Theoretically Productive](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=black)
+![Theoretically Productive](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black)
+![Theoretically Productive](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 
