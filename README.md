@@ -22,6 +22,17 @@
 ![Theoretically Productive](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 ![Theoretically Productive](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.05%
+Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Tuesday      52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
+Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Thursday     80 commits     ██████░░░░░░░░░░░░░░░░░░░   24.77% 
+Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
+Saturday     0  commits     It's me time 😎😎😎😎😎   12.69% 
+```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3)](https://github.com/gauravnepal3/github-readme-stats)
 
