@@ -6,7 +6,8 @@ Wabaladubdub 👋
 
 ![](https://komarev.com/ghpvc/?username=gauravnepal3&style=flat-square&color=blueviolet)
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravnepal3&show_icons=true)
+![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3&show_icons=true&theme=radical)
+![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravnepal3&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working with Adsaro UK
 - 🌱 I’m currently learning Kubernetes
