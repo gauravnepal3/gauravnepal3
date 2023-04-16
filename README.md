@@ -31,11 +31,13 @@ Tuesday      52 commits     ████░░░░░░░░░░░░░�
 Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
 Thursday     80 commits     ██████░░░░░░░░░░░░░░░░░░░   24.77% 
 Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
-Saturday     0  commits     It's me time 😎😎😎😎😎   12.69% 
+Saturday     0  commits     It's me time 😎😎😎😎😎    0.00% 
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3)](https://github.com/gauravnepal3/github-readme-stats)
 
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravnepal3&theme=radical" /> </div>
 ### Get in touch with me 👀
 
 - 📧 Email: [gauravnepal3@gmail.com](mailto:gauravnepal3@gmail.com)
