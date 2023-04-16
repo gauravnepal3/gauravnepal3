@@ -48,7 +48,7 @@ Saturday     0  commits     It's me time 😎😎😎😎😎    0.00%
 <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3&theme=radical&layout=compact" />
 </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravnepal3&theme=radical" /> </div>
-### Get in touch with me 
+<h2> Get in touch with me 👀 </h2>
 
 - 📧 Email: [gauravnepal3@gmail.com](mailto:gauravnepal3@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/gaurav-nepal-618053212/](https://www.linkedin.com/in/gaurav-nepal-618053212/)
