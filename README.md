@@ -20,12 +20,14 @@
 ![Theoretically Productive](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=black)
 ![Theoretically Productive](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black)
 ![Theoretically Productive](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
-![Theoretically Productive](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![Theoretically Productive](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3)](https://github.com/gauravnepal3/github-readme-stats)
 
 ### Get in touch with me 👀
 
 - 📧 Email: [gauravnepal3@gmail.com](mailto:gauravnepal3@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/gaurav-nepal-618053212/](https://www.linkedin.com/in/gaurav-nepal-618053212/)
-- 🌐 Website: [yourwebsite.com](https://www.gauravknepal.com.np/)
+- 🌐 Website: [https://www.gauravknepal.com.np](https://www.gauravknepal.com.np/)
 
