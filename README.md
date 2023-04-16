@@ -4,6 +4,11 @@ Wabaladubdub 👋
 
 ### Hi, welcome to my profile. Unleashing Gaurav's Code Chronicles: A Journey Through Ingenious Problem-Solving and Innovation!
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=gauravnepal3&style=flat-square&color=blueviolet" /> </div>
+
+
+
+
+
 <!-- ![](https://komarev.com/ghpvc/?username=gauravnepal3) -->
 
 
@@ -12,6 +17,8 @@ Wabaladubdub 👋
 - 🔭 I’m currently working with Adsaro UK
 - 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me: gauravnepal3@gmail.com
+
+
 
 ### Skills 
 ![Theoretically Productive](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,6 +31,8 @@ Wabaladubdub 👋
 ![Theoretically Productive](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black)
 ![Theoretically Productive](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 ![Theoretically Productive](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+
 
 📅 **I'm Most Productive on Thursday** 
 
