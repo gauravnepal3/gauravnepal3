@@ -47,7 +47,7 @@ Saturday     0  commits     It's me time 😎😎😎😎😎    0.00%
 ```
 
 <div align="center">
-<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3&show_icons=true&theme=radical"/>
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3&theme=radical"/>
 </div>
 
 
