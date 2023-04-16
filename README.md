@@ -1,5 +1,5 @@
 <div align="center">
-# Wabaladubdub 👋 
+Wabaladubdub 👋 
 </div>
 
 ### Hi, welcome to my profile. Unleashing Gaurav's Code Chronicles: A Journey Through Ingenious Problem-Solving and Innovation!
@@ -37,7 +37,7 @@ Saturday     0  commits     It's me time 😎😎😎😎😎    0.00%
 ```
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3)](https://github.com/gauravnepal3/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3)](https://github.com/gauravnepal3/github-readme-stats)"/>
 </div>
 
 
