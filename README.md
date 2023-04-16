@@ -9,8 +9,10 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=gauravnepal3) -->
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gauravnepal3&show_icons=true&theme=tokyonight" />
+</div>
 
-![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravnepal3&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working with Adsaro UK
 - 🌱 I’m currently learning Kubernetes
@@ -45,9 +47,9 @@ Saturday     0  commits     It's me time 😎😎😎😎😎    0.00%
 ```
 
 <div align="center">
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3&theme=radical&layout=compact" />
+<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3&theme=tokyonight&layout=compact" />
 </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravnepal3&theme=radical" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravnepal3&theme=tokyonight" /> </div>
 <h2> Get in touch with me 👀 </h2>
 
 - 📧 Email: [gauravnepal3@gmail.com](mailto:gauravnepal3@gmail.com)
