@@ -3,10 +3,10 @@ Wabaladubdub 👋
 </div>
 
 ### Hi, welcome to my profile. Unleashing Gaurav's Code Chronicles: A Journey Through Ingenious Problem-Solving and Innovation!
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=gauravnepal3&style=flat-square&color=blueviolet" /> </div>
+<!-- ![](https://komarev.com/ghpvc/?username=gauravnepal3) -->
 
-![](https://komarev.com/ghpvc/?username=gauravnepal3&style=flat-square&color=blueviolet)
 
-![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3&show_icons=true&theme=radical)
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravnepal3&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working with Adsaro UK
@@ -38,7 +38,7 @@ Saturday     0  commits     It's me time 😎😎😎😎😎    0.00%
 ```
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3"/>
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=gauravnepal3&show_icons=true&theme=radical"/>
 </div>
 
 
